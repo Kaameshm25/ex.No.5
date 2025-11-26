@@ -81,7 +81,7 @@ function App() {
 
 export default App;
 ```
-##APP.CSS
+## APP.CSS
 body {
   margin: 0;
   padding: 0;
