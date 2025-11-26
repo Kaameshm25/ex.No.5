@@ -39,7 +39,7 @@ Use setInterval to call the nextImage() function at regular intervals.
 Clean up the interval when the component unmounts using clearInterval to prevent memory leaks.
 
 ## PROGRAM
-## APP.JSX
+## App.jsx
 ```
 import React, { useState } from 'react';
 import './App.css';
@@ -81,7 +81,8 @@ function App() {
 
 export default App;
 ```
-## APP.CSS
+## App.css
+```
 body {
   margin: 0;
   padding: 0;
